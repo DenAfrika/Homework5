@@ -27,7 +27,7 @@ namespace Homework5
         {
             Console.Write("Введите символ:");
             string sumbol = Console.ReadLine();
-            Console.WriteLine(Regex.Replace(str, $@"\w*{sumbol}\s", String.Empty));
+            Console.WriteLine(Regex.Replace(str, $@"\b\S*{sumbol}\b", String.Empty));
         }
         public static void LongWord(string str)
         {
@@ -51,17 +51,17 @@ namespace Homework5
                 if (matches[maxindex].Length == word.Length)
                     stringBuilder.Append(word + " ");
             Console.WriteLine();
-            Console.WriteLine(stringBuilder);
+            Console.WriteLine("Склейка из самых длинных слов: " + stringBuilder);
         }
     }
     internal class Program
     {
         static void Main(string[] args)
         {
-            //Task01();
+            Task01();
             Task02();
-            //Task03();
-            //Task04();
+            Task03();
+            Task04();
         }
 
         private static void Task04()

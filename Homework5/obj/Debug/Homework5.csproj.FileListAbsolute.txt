@@ -1,0 +1,8 @@
+D:\Denchik\VS\Homework5\Homework5\bin\Debug\Homework5.exe.config
+D:\Denchik\VS\Homework5\Homework5\bin\Debug\Homework5.exe
+D:\Denchik\VS\Homework5\Homework5\bin\Debug\Homework5.pdb
+D:\Denchik\VS\Homework5\Homework5\obj\Debug\Homework5.csproj.AssemblyReference.cache
+D:\Denchik\VS\Homework5\Homework5\obj\Debug\Homework5.csproj.SuggestedBindingRedirects.cache
+D:\Denchik\VS\Homework5\Homework5\obj\Debug\Homework5.csproj.CoreCompileInputs.cache
+D:\Denchik\VS\Homework5\Homework5\obj\Debug\Homework5.exe
+D:\Denchik\VS\Homework5\Homework5\obj\Debug\Homework5.pdb
